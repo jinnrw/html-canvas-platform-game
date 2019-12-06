@@ -13,4 +13,5 @@ Also covered camera & player movements, game physics and controls etc.
 - [ ] Add obstacles
 - [ ] Player lands on obstacles logics
 - [ ] Update graphics
+
 and more
