@@ -15,3 +15,5 @@ Also covered camera & player movements, game physics and controls etc.
 - [ ] Update graphics
 
 and more
+
+Here's the [demo](https://jinnrw.github.io/html-canvas-platform-game/).
